@@ -640,6 +640,18 @@ video {
   gap: 1rem;
 }
 
+.gap-\[\] {
+  gap: ;
+}
+
+.gap-\[4rem\] {
+  gap: 4rem;
+}
+
+.gap-\[2rem\] {
+  gap: 2rem;
+}
+
 .overflow-hidden {
   overflow: hidden;
 }
